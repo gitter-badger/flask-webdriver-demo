@@ -1,6 +1,8 @@
 Flaskr - a minimal blog application with extra Sauce [![Sauce Test Status](https://saucelabs.com/buildstatus/flask-webdriver-demo)](https://saucelabs.com/u/flask-webdriver-demo) [![Build Status](https://travis-ci.org/christian-bromann/flask-webdriver-demo.svg?branch=master)](https://travis-ci.org/christian-bromann/flask-webdriver-demo)
 ====================================================
 
+[![Join the chat at https://gitter.im/christian-bromann/flask-webdriver-demo](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/christian-bromann/flask-webdriver-demo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Sauce Test Status](https://saucelabs.com/browser-matrix/flask-webdriver-demo.svg)](https://saucelabs.com/u/flask-webdriver-demo)
 
 ## What is Flaskr?
